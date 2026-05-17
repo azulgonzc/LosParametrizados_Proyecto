@@ -1,5 +1,6 @@
 /* ================================================================
  * Archivo      : Loteria_Final.c
+ * Compilador   : Zinjai
  * Proyecto     : Loteria Magica - Simulacion de la Loteria Mexicana
  * Equipo       : Los Parametrizados
  * Materia      : Programacion Estructurada, 2do Semestre
